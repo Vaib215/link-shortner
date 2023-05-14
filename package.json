@@ -6,13 +6,13 @@
     "mongoose": "^7.0.3"
   },
   "scripts": {
-    "start": "node server.js"
+    "start": "node index.js"
   },
   "type": "module",
   "name": "workspace",
-  "description": "Command to run server.js file:",
+  "description": "Command to run index.js file:",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "index.js",
   "devDependencies": {
     "nodemon": "^2.0.22"
   },
